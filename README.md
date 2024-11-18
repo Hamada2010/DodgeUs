@@ -37,3 +37,17 @@ Follow these steps to set up and run the game on your local machine.
    ```bash
    git clone https://github.com/Hamada2010/DodgeUs.git
    cd DodgeUs
+
+---
+
+### Step 3: Install the requirements
+1. Install pygame:
+    ```bash
+    pip install requirements.txt
+
+---
+
+### Step 4: Run the game
+1. Run it:
+ ```bash
+python DodgeUs.py
